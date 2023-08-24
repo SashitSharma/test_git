@@ -44,7 +44,6 @@ class TestArithmeticFunctions(unittest.TestCase):
         with self.assertRaises(ValueError):
             division(8, 0)  # Division by zero should raise ValueError
 
-asdfghjkl
 
 if __name__ == '__main__':
     unittest.main()
